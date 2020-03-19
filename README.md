@@ -1,7 +1,7 @@
 # Cybersecurity-NewGen
 Cybersecurity Resources - New Generation - Focused Cloud - Ecosystem focused Microsoft
 
-**Cybersecurity Resources frequently shared and updated December 2019**
+**Janvier 2020**
 
 ## Recent Updates
 
