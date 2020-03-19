@@ -119,5 +119,3 @@ Recommended roadmap for securing privileged access
 - **Credential Theft Demonstration (~10 minutes)** - http://aka.ms/credtheftdemo
 - **RSA Conference Presentation** - Co-presentation with Tony Sager of the Center for Internet Security (CIS) on this aspect of critical hygiene - https://aka.ms/criticalhygiene-rsac
 
-- **Feedback** - 
-[CyberDocFeedback@microsoft.com](http://mailto:CyberDocFeedback@microsoft.com/)
